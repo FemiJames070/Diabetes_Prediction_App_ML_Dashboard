@@ -50,7 +50,7 @@ Open your browser and navigate to the local URL provided in your terminal (usual
 ⚠️ Disclaimer
 For Educational Purposes Only. This application and its underlying machine learning model are designed for portfolio demonstration and educational purposes. It is not intended to be a substitute for professional medical advice, diagnosis, or treatment.
 
-✍️ Author
+## ✍️ Author
 Femi James Data & Business Analyst | Integrated AI Specialist
 
 *(Don't forget to update the `yourusername` placeholder in the clone link before you commit it!)*
